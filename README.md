@@ -2,8 +2,10 @@
 
 
 
-  	Name: c programe for print pattern
+  	Name: C Program for Print Pattern
+	
 	INPUT = 4
+	 
 	   1
 	  1 2
 	 1 2 3
